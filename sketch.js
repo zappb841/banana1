@@ -3,7 +3,7 @@ let points = [];
 let r = 2; let angle = 0;
 
 function preload() {
-  fonte = loadFont("fonts/BowlbyOne-Regular.ttf");
+  fonte = loadFont("BowlbyOne-Regular.ttf");
 }
 
 function setup() {
